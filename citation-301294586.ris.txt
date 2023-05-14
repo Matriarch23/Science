@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Valentin, Frédérique
+AU  - Détroit, Florent
+AU  - Spriggs, Matthew
+AU  - Bedford, Stuart
+PY  - 2016/01/12
+SP  - 292
+EP  - 297
+N2  - With a cultural and linguistic origin in Island Southeast Asia the
+Lapita expansion is thought to have led ultimately to the
+Polynesian settlement of the east Polynesian region after a time
+of mixing/integration in north Melanesia and a nearly 2,000-y
+pause in West Polynesia. One of the major achievements of recent
+Lapita research in Vanuatu has been the discovery of the oldest
+cemetery found so far in the Pacific at Teouma on the south coast
+of Efate Island, opening up new prospects for the biological
+definition of the early settlers of the archipelago and of Remote
+Oceania in general. Using craniometric evidence from the skeletons in conjunction with archaeological data, we discuss here four
+debated issues: the Lapita–Asian connection, the degree of admixture, the Lapita–Polynesian connection, and the question of secondary population movement into Remote Oceania.
+T1  - Early Lapita skeletons from Vanuatu show Polynesian craniofacial shape: Implications for Remote Oceanic settlement and Lapita origins
+VL  - 113
+JO  - PNAS
+ER  - 
